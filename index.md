@@ -1,8 +1,6 @@
 ## 欢迎来到尚亚璋先生个人网页
 
-You can use the [editor on GitHub](https://github.com/AdamShang/My-H5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+新手学习，入坑之作
 
 ### Markdown
 
@@ -26,11 +24,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+详情请点击： [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-这里可以更换主题  (https://github.com/AdamShang/My-H5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+这里可以更换主题，有点丑
+(https://github.com/AdamShang/My-H5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
